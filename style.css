@@ -30,8 +30,13 @@ a {
     height: 75px;
 }
 
+#SEP11 {
+    margin-top: 45px;
+    text-align: center;
+}
 .margin {
     margin-bottom: 45px;
+    text-align: center;
 }
 
 .bg-1 {
@@ -40,7 +45,7 @@ a {
 }
 
 .bg-2 {
-    background-color: #3d5d78; /* Blue */
+    background-color: #b5d5ff; /* Blue */
     color: #ffffff;
 }
 
@@ -54,12 +59,12 @@ a {
 }
 
 .bg-3 {
-    background-color: #133c5e; /* Black */
+    background-color: #a1bee6; /* Black */
     color: #ffffff;
 }
 
 .bg-4 {
-    background-color: #343a40; /* Dark Gray */
+    background-color: #6b8ab3; /* Dark Gray */
     color: #fff;
 }
 
@@ -67,6 +72,7 @@ a {
     padding-top: 50px;
     padding-bottom: 50px;
 }
+
 
 .navbar {
     padding-top: 15px;
