@@ -20,6 +20,12 @@ a {
     max-height: 300px;
 }
 
+#logo {
+    margin: 100px;
+    width: 400px;
+    height: 200px;
+}
+
 #fork img{
     height: 25px;
     margin-bottom: 25px;
